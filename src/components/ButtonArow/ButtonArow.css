@@ -1,0 +1,16 @@
+
+.sqs-block-button-element--medium
+{
+    padding: 10px 10px !important;
+    color: white !important;
+    background-color:black!important;
+}
+
+
+.sqs-block-button-element--medium:after {
+    content: '>>';
+    color: white!important;
+    border-left: 1px solid white;
+    padding-left: 10px;
+    margin: 0px 0px 0px 10px;
+}
